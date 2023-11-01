@@ -1,0 +1,5 @@
+CREATE TABLE Usuario (
+  ID INT PRIMARY KEY,
+  nome VARCHAR(50) NOT NULL,
+  data_registro DATE NOT NULL
+);

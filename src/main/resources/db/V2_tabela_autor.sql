@@ -1,0 +1,5 @@
+CREATE TABLE Autor (
+  ID INT PRIMARY KEY,
+  nome VARCHAR(50) NOT NULL,
+  nacionalidade VARCHAR(50) NOT NULL
+);
